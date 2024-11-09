@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+transformers
+torch
+librosa
+python-multipart
+peft
+accelerate
+-i https://pypi.org/simple/ bitsandbytes
+
+openvino
+optimum[openvino,nncf]
+onnx==1.16.1
+ffmpeg
